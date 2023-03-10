@@ -1,0 +1,615 @@
+tweet,condition,davidson_label,founta_label,annotatorRace,strict_unbiased_label
+"""""""Nicki Minaj Shows Off Her Big Boobs In Large Cleavage Wearing A Diamond Bra And Dress https://t.co/D50CFT1aYP""",African-American,,spam,['black'],0
+"""""""Success is not impossible, but changing such a mindset is like a battle."""" https://t.co/PxGUVk0zb8 https://t.co/a5D1OF8H5Z""",White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white']",0
+"""""""The business of business is relationships; the business of life is human connection""""  Robin S. Sharma https://t.co/l9h8uBNjsO""",White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white']",0
+"""#OpExposeCPS TEACHERS too! Another """"trusted"""" member of society, doing the nasty with teen. Yes teen…… https://t.co/rKg6CaLStZ""",Latino,,spam,"['hisp', 'hisp']",1
+"""@user """"That's it? Huh?"""" She pushed the leg with her foot and.. the entire leg snapped off, the piano coll… https://t.co/7v6lBrm9Jt""",White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white']",0
+"""@user Not wanting to leave behind family is an """"excuse"""" according to you. Are you a freakin insect?""",White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white']",1
+"""@user10: @user is bored supposed to be cute, you faggot?"" Sometimes",Latino,hate_speech_rel,,['hisp'],1
+"""@user10: Dude remember this wop video? @user http://t.co/P3HEuBOQBu"" OMG WHERE DID YOU FIND THAT",Latino,neither_rel,,"['hisp', 'hisp']",0
+"""@user10: Happy Bday Bitch Ass Nigga @user""preciate that bitch roll up!",African-American,offensive_language_rel,,['black'],0
+"""@user: If Richnow doesn't show up with hella tinder hoes Im not his friend anymore"" chill I brought like like 8 prople",African-American,offensive_language_rel,,['black'],1
+"""Batter the wee cunt Jewis"" y cos he fucked my ex? Emma isnt battering the girls I've nailed?Ive moved on,stop being a pussy n do it urself.",White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+"""If you feel you're a victim of unfair """"character assassination"""", to do the same to others is a horrible and disgusting irony. #sarnia""",White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white']",0
+"""Like I said, if you think we just bombed Syria as retaliation for """"chemical warfare"""" you're blind. Wake up""",White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+"""NOT in my lifetime have I saw a US President """"pass the buck"""" like this one. Fucking pathetic. SAD! https://t.co/HGtflCDHzp""",White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white']",1
+"""RT @user: Damn.. all my mom says is """"you not too sick to be on that damn phone"""" https://t.co/pMM9MDDOsC""",African-American,,abusive,['black'],0
+"""RT @user: I need me a BAD Bitch to takeover my snapchat I get up to 43K views on snap dm me """"takeover"""" if u Tryna make ya sna…""",African-American,,spam,['black'],0
+"""RT @user: If you scream """"oh god!"""" while Richard Dawkins is fucking you, he immediately pulls out &amp; lectures you for 3hrs""",White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+"""RT @user: Me, watching Trump speak like an idiot at this press conference: """"FUCK EVERY PERSON WHO VOTED FOR DONALD TRUMP NOW…""",White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white']",1
+"""RT @user: disgusting how these so called """"vegans"""" still drink water. that's a fish's house you sick fucks https://t.co/LnMkifo47w""",White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white']",1
+"""So he's a good football player...but he still acts like a nig""",White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+"""Some girl just asked me to explain Arts Everywhere to her and then she said """"oh so it's just high school stuff"""" and now I'm very confused""",Latino,,normal,"['hisp', 'hisp']",0
+"""i believe in god. i'm not """"religious"""" tho. idk i have a problem with churches and most of the """"standard christian v… https://t.co/SfJlgO9y7q""",White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+"""she went the fuck off on him """" I'm tired of you only hitting me up when you want nudes or when y'all 2 are having issues """"""",African-American,,hateful,['black'],1
+"#AZmonsoon lot of rain, too bad it wasn't enough to wash away the teabagger racist white trash in the state. #Tcot #teaparty #azflooding",White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+#California is full of white trash who moved from #Oklahoma,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+"#CommonQuestionIGet
+
+Why uou so ghetto?",Latino,neither_rel,,['hisp'],1
+#DTLA is trash because of non-Europeans are allowed to live there.,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white']",0
+#GH Dante found something...Anna remember having sex w/Valentine...Sonny warn Nelle...Jax told the truth.,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white']",0
+#HandsOffDjZinhle ya'll mind your own business..She's rich and succesful while ya'll depending on your parents and boyfriends..,Latino,,normal,['hisp'],1
+#Intel will continue our collaboration with @user &amp; partners for security solutions as we offer industry leading… https://t.co/J9k7JgzKMr,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+#Pizza craving? You won’t go wrong at #Portobello Italian Winner of the @user’s 2017 local restaurant of t… https://t.co/YTQgoihIwF,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white']",0
+#PokemonGo https://t.co/Pdft1iaSzs Pokemon Go won best mobile game at the BAFTAs!! #pokemon https://t.co/Pdft1iaSzs https://t.co/1ACM2SVyqs,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white']",0
+#RT https://t.co/DE79AqLEed follow everyone who likes this&#128176; https://t.co/DE79AqLEed follow everyone who likes this&#128176; — Girls Story... (m…,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white']",0
+"#VinitaHegwood can get a job at the naacp. Or as The AG. I hear they like ""diversity and tolerance"". As long as you ain't a cracker #tcot",White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+#girls getting fucked in sweatpants porn videos download https://t.co/VSZymEgtLs,White/Caucasian,,abusive,"['white', 'white', 'white', 'white']",0
+#hardcore porn mags beauty fucked pic nonbengali girl https://t.co/1ooz2W8lUS,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white']",1
+#ice land girls nude fucking picture ear infections in adults symptoms https://t.co/H1R26mDBR0,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white']",1
+#passwordz porn roller derby girls fucked https://t.co/OrokLGAUxx,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+#redneck tow truck. #johndeere #4455 #america https://t.co/iFInqwVRad,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",0
+#sex caught this hot chick in the train. Watch video here https://t.co/IGKJJLvjkm https://t.co/w8laIVTxL8,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white']",1
+&#127881; I'm now a proud supporter of @user. You should support them too! https://t.co/61hBdvTdQC #opencollective,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+&#128347; is the most important thing. All this temporary bullshit and lies is fa the birds. Kill that !,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white']",0
+"&#193;lbum de fotos: gaywrites: In the Making, a project by and for queer students at Harvard, highlights the... http://t.co/XZQ9XmaQTf",White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",0
+&#8220;@user: Looking at nip rings I can't wait until I can change mine &#128527;&#8221; &#128221;&#128064;&#128209; lmao,Latino,neither_rel,,"['hisp', 'hisp']",0
+&#8220;@user: The fruit of the modern Yankees farm system. http://t.co/LfWC3LSRjO&#8221; Joba the Nut.,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+*previous work plugs for a job vacancy advertisment online* May the force be with you applicant. I hope you'll stay longer than I did. Lol&#128514;,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+". @user just been listening to you over the weekend, your IDs are absolute monsters, keep up the good work!",White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+.@user Javon's a fucking homosexual that should just kill himself,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+.@user Little Black Dress fragrance is perfect for every occasion. #AvonRep https://t.co/hoAOi6PbFx https://t.co/Gp1vS6CbxR,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white']",0
+"1) RT @user210: @user @user no I'm not crossed eyed, I'm albino. Can't control that",White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white']",0
+1PC Flower Galaxy Nail Art Transfer Foil Nail Sticker Tip Decal Decoration M*29 https://t.co/RlS7FBlNQE https://t.co/OXT08FsB9Q,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white']",0
+7Colors Change Nightlight XMas Acrylic Crystal Christmas Tree/Snowman Nightlight https://t.co/AD8CXPSNL8 https://t.co/cxVwZTCKpO,Latino,,hateful,['hisp'],0
+"@user &#128514;, last week he moaned West Brom only had one international player even though we had 10. ☺️I think… https://t.co/vPSvA2ao4c",White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white']",0
+@user @ me then faggot,Latino,hate_speech_rel,,"['hisp', 'hisp']",1
+@user A1 I hold the ABCP from https://t.co/FFQL8VoU4i and AMBCI from https://t.co/rdOULD5jey #bcius,African-American,,normal,['black'],0
+"@user Agree that is what I am doing now. More focus, more energy, more living and cooperation. Thank you for… https://t.co/2mFksDFg6O",White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white']",0
+@user Awesome that will be a blast!! I was thinking of that for us but the way Athena act in public we gna… https://t.co/xobAcI4w7P,White/Caucasian,,normal,"['white', 'white', 'white', 'white']",0
+"@user Breeding a Nation of Pussies, now how the hell is a Man, a Man...IF HE's A PUSSY!
+I'm concerned, WE have pussies &amp; psycho's!",White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+@user Bruh I always wondered what your brother would do if he saw what these people wrote to you lollll,Latino,,normal,['hisp'],0
+@user Everything Jay-Z writes is trash.,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white']",1
+@user Fuck off you stupid pedophile worshiping untouchable. India for Hindus. muzzies gtfo,Latino,,hateful,['hisp'],1
+"@user Good God, did someone stick his silly ass hand in a light socket, he looks completely stupid. Oh yeah, he's a democrat!",White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+@user I HATE birds! They just piss me off about the fact that I can't fly!,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+@user I don't fucking know that's why i'm asking you. Now answer the question thottie,Latino,,normal,"['hisp', 'hisp']",1
+@user I don't like it peaceful that's boring I like fighting I come from the ghetto do u remember that it's p impossible for me not to,Latino,neither_rel,,['hisp'],0
+@user I hate that nigger.,Latino,hate_speech_rel,,['hisp'],1
+"@user I knew they would, they tried it with bts and exo too but I didn't watch, it's not a competition again lol",Latino,,hateful,['hisp'],1
+@user I know. Its just funny cause everyone bashes Drake for doing this when it happens all the time.,Latino,,normal,"['hisp', 'hisp', 'hisp']",0
+@user I miss my biggest support right now too. I'll be home asap. ❤ https://t.co/Lejh0TIBC6,Latino,,normal,['hisp'],0
+@user I never really rocked with the white sole. I feel ya bro. But these!!? My favorite Foam of all time. http://t.co/lTSsn34IFJ,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+@user I think someone's mistaking these graphics made for the Season 17 trailer for work done on a new ti… https://t.co/VPariX1kc0,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white']",0
+"@user If racial minorities weren't criminally inclined, they wouldn't have so much to worry about. Act your color, race traitor!",White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+@user Is Turkey a Sharia country? No. So Muslims don't have full say their YET. https://t.co/gQlHdGA07D… https://t.co/zU4I7lstCd,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white']",0
+@user I’m not a hater. I honestly thought it was crap. The white family luring black guys to their remote home… https://t.co/W0kFcvGVGt,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white']",0
+@user Jeff Luhnow is to blame for the Astros not blowing out the Red Sox and Yankees -HC,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+"@user Jesus I would love to do that and more to those muzzie torturers, fucking animal savages",White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+@user LMFAO I'm so fucking mad. Hair turns gray cause ur melanocytes stop producing so how tf is lemon juice gonna work &#128580;,Latino,,abusive,['hisp'],0
+"@user Last, but not least, this wrkshp is based on our Exhibit Makeovers book, which you can buy online https://t.co/l5rHqpYhB9",White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white']",0
+"@user Mentally ill people may as well be pedophiles, or black, for the amount of shit they get.",White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white']",1
+@user New show:Thursdays with Jinxy broadcast from the moon it's made of chunky blue cheese you know,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+@user Oh really? fags are gross You aids infected sick fuckers,Latino,hate_speech_rel,,['hisp'],1
+@user One less little nigger that would grow up into a big nigger.,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+@user Recurring theme? Do you know anyone with ethics? #EthicsCount #Shame #Plagiarism https://t.co/TRkV4KhREb,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white']",1
+@user Starts making monkey faces behind you,Latino,neither_rel,,['hisp'],0
+@user THAT IS A FUCKING MOVIE! https://t.co/ywG7IZywKk,Latino,,spam,['hisp'],0
+@user That reminds me I need to pick up one of those fake headrest switch mounts before Deluxe hits so that I… https://t.co/Zpgk7NPzn5,Latino,,hateful,['hisp'],0
+@user That's actually non-English. Because #okiecops are filthy white trash who are all criminals.,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+@user There's a special place in hell for women who would see less well off women denied access to health care and contraception.,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+@user This cold we have going around our little hick town had about everyone I know locked in their houses for better than a week. Stay well,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white']",0
+@user WTAF?????????? 1-this is sexist. 2- any1 who can afford coop has a fucking dishwasher,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white']",0
+"@user We hate the Yankees though, right? I feel like I'm really good at hating them.",Latino,hate_speech_rel,,['hisp'],0
+"@user We want the freedoms that these people fight for, but we don't want to honor them for their service.… https://t.co/oQ2wGY0sKA",White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white']",0
+@user What tech solutions do you use to provide the best #CX to today's digital consumer? #AugmentedReality #wfm https://t.co/GvpAljjnaa,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white']",0
+@user Whats it say... I see bird in it... Lmao,African-American,neither_rel,,['black'],0
+@user Where is Emotion by CRJ or BWET or Fantasea by Azealia? Why do you hate the gays Dylan?,Latino,,hateful,['hisp'],0
+@user YES. Tbh I kept thinking San's actress can't speak a word of English without help so they made her 95%… https://t.co/T68BjDGVwZ,Latino,,normal,['hisp'],0
+@user Yeah lets bomb the fuck out of somewhere for no reason and let ISIS/AL Qaeda take control?,Latino,,hateful,"['hisp', 'hisp']",1
+@user You are full of it! These so called children are not children. They are illegal border jumpers MS!# gang members.,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+@user You looked like a complete pathetic idiot tonight. How could you be so stupid Mr. Ghetto. My God you… https://t.co/eEpAih1GAj,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white']",1
+@user You poor man... co-opted by Liberals already? Unlikely it was Syria! What does CWeapons do to help Assad or… https://t.co/oti7rWI09a,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+@user You retarded bruh lol,African-American,hate_speech_rel,,['black'],1
+"@user alas, I am proficient in neither. my skills are limited to pointless stat memorization + trash talk.",White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+"@user apparently this little pussy cant converse nevermind fight. Ive been blocked. 
+Oh well youth gets frustrated easy.",Latino,offensive_language_rel,,"['hisp', 'hisp', 'hisp']",1
+@user at the fucking roller disco fucking hipster,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white']",1
+@user bitch was i talking to u stfu and get off my page oh bitch nigga u bout that life,African-American,hate_speech_rel,,['black'],1
+"@user bitch you up and joined the fucking army and those of us around this bitch was like ""where the fuck rob go to the fuckin army?""",White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+"@user bunch of barbaric ppl. sick, sick ppl. get them the hell out of our country.",White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white']",1
+@user but I live in the South. Lot more here. My pop lives in Rhode Island. Hardly no niggers there.,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+@user but can we all at least agree that you whining like a little bitch because someone threw your phone is absolutely hilarious?,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+@user can we just stop the fucking drama and move on? PLZ?,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+@user can't wait for more PEDS is that it? Roid munching faggot,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+@user fag,Latino,hate_speech_rel,,['hisp'],1
+@user fag lol,Latino,offensive_language_rel,,"['hisp', 'hisp']",1
+"@user fucking just blew my mind, arian. thank you.",Latino,,abusive,"['hisp', 'hisp']",0
+@user gayer then 2 faggots in bed together&#128129;,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+@user go back to nigeria faggot,Latino,hate_speech_rel,,"['hisp', 'hisp']",1
+@user haha because I'm too cool for them hoes lmao jk I got reported supposedly that I was a fake account &#128554;,Latino,offensive_language_rel,,['hisp'],0
+@user happy birthday faggot,Latino,hate_speech_rel,,['hisp'],1
+@user hes just a friggin idiot that can say anything and his redneck teabagger constituants buy it. They love stupid people,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+"@user i can guarantee a few things: you're white. you've never been anywhere NEAR a real ghetto. you, or a relative is a pig. 100%",White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white']",1
+@user i know im so kidding. Some of BET is funny. I love when blacks call eachother ignorant and niggers. Makes me not have to,Latino,hate_speech_rel,,['hisp'],1
+@user i would send a screenshot of all of them but idk if they're rly your style/all in art school/what age they are,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white']",0
+@user insecure much put all you insults in one tweet. Fucking dumbass dude I'd wreck you you faggot,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+@user it's not ghetto you fool.,Latino,neither_rel,,['hisp'],0
+@user learn how to type ya hillbilly,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+@user lmfao go to bed whitey &#128129;,Latino,hate_speech_rel,,['hisp'],1
+@user lol you can only get in at Eden when you're 18. All the bitches there are fat...,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+@user love you too bitch&#128129;&#128536;,Latino,offensive_language_rel,,['hisp'],0
+@user not home. Headed to work sorry ho,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+@user okay closet fag,Latino,hate_speech_rel,,"['hisp', 'hisp']",1
+@user roid rage much faggot?,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+@user sounds about right to many dumb bitches work there welcome to my life,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white']",1
+@user thanks!!! Now go clean that trash can ya lil nasty! Lol,African-American,neither_rel,,['black'],0
+@user that pic with the red bone in braids and that tiger in the back for sale?,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white']",0
+@user that's not ghetto. That's sweet and a movie quote. Try again,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+@user thats the fucking ugliest thing ive ever seen in my life and im concerned why you have that saved,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white']",1
+@user the slopes aren't for us bro Hahaha,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",0
+"@user this is a fucking travesty, the world also needs this song: https://t.co/FjiVqrV3Ip",White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white']",0
+"@user those ""trash"" SnD stars would scrape ur team in SnD and most pro teams.",White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white']",0
+@user tyler I have fucking school you brain dead retard,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+@user vertical nip bars..I already have horizontal ones so I think it'll look hella cute,Latino,neither_rel,,['hisp'],0
+@user what's this chinks email? I'm moving to China and slicing his throat,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white']",1
+@user yea that always looks nice.all the monkey faced women a see around Santa Monica. Looks better than natural beauty. #don'tBeDumb,Latino,offensive_language_rel,,['hisp'],1
+@user you a fucking wigger so stfu,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+@user you become retarded,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+@user you havent evolved as a human being. Typical meathead redneck. I pity you. You dont know what freedom is about......,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+@user you look like fucking shrek bitch,Latino,hate_speech_rel,,['hisp'],1
+@user you mean trash.,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+@user yu forgot we beat yall? Thats like a garbage man calling a janitor trash,African-American,neither_rel,,['black'],1
+@user. I wonder what Charlie Brown would have to say about these days.,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+@user10 &amp; @user will be going live on the UL JOBS NETWORK Facebook TONIGHT at 6PM ET! Don't miss his… https://t.co/VzAInCP4WB,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+"@user10 @user Except when they're not funny, they're just being mean selfish and drunk",Latino,,hateful,['hisp'],1
+@user10 @user I may have just cried a tad #illmissu shiner,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+@user10 @user I want to hear No Promises by Cheat Codes &amp; Demi Lovato! #MostRequestedLive https://t.co/xa1Yni3pPW,Latino,,spam,"['hisp', 'hisp']",0
+@user10 @user I'm referring to the second down put Vick in slot play #trash,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white']",1
+@user10 @user Rice is a traitor. She Needs to be prosecuted at a minium....Gitmo is an option too.,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white']",0
+"@user10 @user So, he tells trump to stop insulting someone, with an insult. Leftism at its most barmy. Well done.",White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white']",1
+@user10 @user THIS IS HOW ASSASSINATIONS GET SET UP...piece by peice....CLAMP DOWN ON THE VIOLATORS FULL IN… https://t.co/Wos2ABqhsc,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+@user10 @user Thank u &#128522; i am bringing like a small birthday bag I'm just so scared they're guna take… https://t.co/KuwMO8YBZe,Latino,,normal,['hisp'],0
+@user10 @user US is already doing something by backing some of the rebel groups. This is a proxy war afte… https://t.co/oDMUuVq1Wt,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+"@user10 @user We need XS, S, M, L and XL portion options and prices at Restaurants. Boys need the sa… https://t.co/1V7GlPl6BL",White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+"@user10 @user bitch you beat after losing twice lol and we won 11, you just a hater",White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+@user10 @user bitch you watch your fucking mouth you dirty whore. I swear to god that's a thin line,Latino,hate_speech_rel,,"['hisp', 'hisp', 'hisp']",1
+"@user10 @user don't trash Jersey...ODDS ARE..YOU WOULDN'T LAST 10 MINUTES AROUND HERE! 
+Go back to watching BARNEY!",White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+@user10 @user faggot scoon you wanna ball?,Latino,offensive_language_rel,,['hisp'],1
+@user10 @user fight me you fucking obese niglet,Latino,hate_speech_rel,,['hisp'],1
+@user10 @user he's still a pogue though,Latino,neither_rel,,['hisp'],1
+@user10 @user humans are evil man. Cutting tusks of these beautiful animals so chinks think the get a hard on.,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+@user10 @user is so excited about his red velvet brownie.,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white']",0
+@user10 @user lmaooo just call my phone if you want them birds *Migos Voice*,African-American,neither_rel,,['black'],0
+@user10 @user nigga stop being a bitch and come to the high school You already said yes,Latino,offensive_language_rel,,['hisp'],1
+@user10 @user that would cripple our military :),White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+@user10 @user yeah she wildin. I've been waiting for someone to say we don't need photoshopped women daily. No need. Still luv ya,African-American,,hateful,['black'],0
+"@user10 I'm just saying, it's not like you were up against a bird-eating spider or something. Bet @user coulda done it",White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+@user10 go away already @user,Latino,neither_rel,,['hisp'],0
+@user210 @user @user Girl shut up. you're an idiot you have no clue what you're talking about keep it moving &#129318;&#127998;‍♀️&#128514;,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white']",1
+@user210 @user @user Shit your ass and shabbat your moms pussy u Jew bastard. Ur times coming. Heil Hitler!,Latino,hate_speech_rel,,['hisp'],1
+@user210 @user @user Shut up you idiot,Latino,,hateful,['hisp'],1
+"@user210 @user @user That bitch is so stupid! It's the BEY hive, not the BEE hive. Lil Kim was the Queen B, Bey IS Queen B",African-American,offensive_language_rel,,"['black', 'black']",1
+@user210 @user @user every1 in world believes we are heading for a world war but you idiots a… https://t.co/QXKGDHzC7W,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+@user210 @user @user hes a lying faggot. he used inspect element to change the number of dollars in his account.,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+@user210 @user @user thats just me rooting against a team I hate not banwagoning u retard u have a different favorite,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+"@user210 @user @user will convince u that is a lame, you, a nigger liver believes it cuz you a nigger whore",Latino,hate_speech_rel,,['hisp'],1
+@user210 advances against @user at @user 2017 Local Throwdown last night - come out to the taproo… https://t.co/b6yMyugkzC,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white']",0
+@user3210 @user @user @user I hope all of Shaq's entourage and family is making fun of hi… https://t.co/FflMZxnwjW,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white']",0
+@user3210 @user @user @user Jason Robinson made Lions debut before England debut. Tradition… https://t.co/c6v65AHDYo,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white']",0
+@user3210 @user @user @user polls also say we should allow fewer sanctimonious twats into… https://t.co/ujOMMioAK6,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+@user3210 @user @user @user yeah ok nigger.,Latino,hate_speech_rel,,['hisp'],1
+"@user43210 Hi, ℋ! We can't wait to hear ur new music! Mind FOLLOWING us? ✧@user @user @user @user✧ We love you &#127804;",Latino,,spam,"['hisp', 'hisp']",0
+ABC. CNN MSNBC cbs NBC the people who watch these news agencies are friggin racists idiots your democrat reps are friggin lost in la laland,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white']",1
+Airwheel S8mini electric Scooter Allows The Seniors To Enjoy The High Tech Gadget https://t.co/hG9YQchypN https://t.co/i4lJmVW7Ja,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white']",0
+All these hoes want boyfriend's but the last thing I need is more ties,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+"And you a bitch.. Even when you say you love me, you a bitch. I pray you crash like Caroline into a ditch.",White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+Anime girl fucked by horse monster https://t.co/lQbvbugKcH,Latino,,spam,"['hisp', 'hisp']",0
+Anybody who is rooting for #worldwar3 is a fucking imbecile.,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+"Anyone want to share their thoughts on their mock draft?? Just kidding. SHUT YOUR FILTHY DAMNED MOUTH, YOU CLODS.",White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+April Fools Roundup: All The Jokes From Around The Web [Continuously Updated] #AprilFoolsDay #AprilFoolsDayPranks… https://t.co/ZnGCtTGMJJ,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+April fools day is over but you're still a fucking joke,White/Caucasian,,abusive,"['white', 'white', 'white', 'white']",1
+Aren't these little border jumpers supposed to be in school,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+Attendance Awareness Month starts in September. Planning starts now! Will you join us? https://t.co/6aO7Gy4oVd… https://t.co/BDzV7zoFyQ,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white']",0
+"BEAUTIFUL MOROCCAN written by: Stanley Wilkin @user Dressed in black, dark eyes amuse https://t.co/4PT1o9wyFZ #english #poetry",White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white']",0
+Between this trend and the vines acting like women its like niggas couldn't wait to be faggots http://t.co/dKVnjmCarZ,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+Bitches be having a nigga but want to be another nigga WCW bitch it don't work like that,African-American,hate_speech_rel,,['black'],1
+Bitches so stupid I just be telling them I got a gf because that's when they appreciate your time,Latino,,abusive,['hisp'],0
+"Blake scholars in reference to the Burrows study of work more accessible information about the records of [crisis], of poetry,",White/Caucasian,,normal,"['white', 'white', 'white', 'white']",0
+Bout to make some brownies in a few.,African-American,neither_rel,,"['black', 'black', 'black']",0
+Brunette Woman With Enhanced Tits Gets Her Pussy Fucked By Shawn https://t.co/5NThqjl7Y6,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white']",1
+CHECK OUT OUR M3 TRAVEL SERVICES - WG PARTNER FACEBOOK PAGE FOR: DEALS ON DISNEY WORLD DEALS ON SOUTHWEST... https://t.co/Do8Omzwlwf,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+COOSA 12pcs Women's Professional Makeup Lipliner Waterproof Lip Liner Pencil Set https://t.co/b7FxtncQSz,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white']",0
+Can #faggots of #HoneyBooBoo imagine this #internet world was created to trap them and feed them to #Allah like gazelles? #IT #StephenKing,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white']",1
+Castle In the Snow by The Avener &amp; Kadebostany is number 3 in Armenia #iTunes top 100 songs https://t.co/K8weRAAniz,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+Charlie looking like he's the one that made that 3.,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+"Come play @user with me, you can win $630 today just by playing free games on your phone - https://t.co/mnd6T2SaGM",White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white']",0
+Coons RT @user: these hoes love putting spaghetti and salad on the same fucking plate....*smh*,African-American,offensive_language_rel,,['black'],0
+Cries bc I wish I had slippers bc my feet get so cold but I fucking hate socks,Latino,,normal,['hisp'],0
+DMV nigguh dress funny as hell,Latino,offensive_language_rel,,"['hisp', 'hisp']",0
+"Decent trade for the #Yankees, a proven veteran #Ichiro for some prospects",White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+"Do birds have dongs? How do they mate? Help me, I'm an adult who doesn't know how animal sex works!!!",White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",0
+"Drake T.I&#8220;@user210 &#8220;@user 3 Stacks, Kendrick RT @user: Name a rapper that alot of people like...but you think is trash&#8221;&#8221;",African-American,neither_rel,,['black'],0
+"Each of our shows is home to over 90 leading manufacturers, suppliers and trade associations! #plumbing #heating… https://t.co/ilK8RzDt86",White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+Electrify Your Sex Life - Check Out Our Selection Of ElectroSex Toys https://t.co/JONw9xNlvD https://t.co/mz9BGVhhWP,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white']",0
+Enter here to win a Morning Sidekick journal with @user to help you conquer your mornings #win #giveaway https://t.co/rrQwIYGE1G,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+"Everything seems to be falling into place today. However, ther... More for Taurus https://t.co/drNbF3G71P",White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white']",0
+Ezra Cohen-Watnick: 5 Fast Facts You Need to Know – https://t.co/rljkbHckCO part of the #CrookedTrump Admin #p2 https://t.co/zBPmOdc6vW,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+FUCK ARE YOU TALKIN ABOUT?? RT @user its like the guy that asks for your number and then says you ugly and a bitch when you say no&#8230;,Latino,offensive_language_rel,,['hisp'],1
+Filipino karaoke parties: as you turn around and say Me: TAKE MY BREATH AWAYYYYAYYYAYAYAYYYAYAYA https://t.co/3e5N6v9l0C,African-American,,spam,['black'],0
+Found a Transponder Snail! A behind-the-scenes look at Galley-La Shipyard! https://t.co/C9vk9mw7mg #TreCru https://t.co/mBzg1T85uy,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white']",0
+Frustrated Man Commits Suicide In Niger State https://t.co/CYaMsQdum0 https://t.co/9sMtuQHdMp,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white']",0
+Fuck yeah it's Friday!!! &#128541; Let's hang out togetherrr &#128522; See you soon! ❤️,Latino,,abusive,['hisp'],0
+Fucking crotch sucking prick. https://t.co/xvQ2Etiy9n,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+Fucking puss &#128530;&#128514; #TeamMakody https://t.co/6yxJxXRfH6,Latino,,hateful,['hisp'],0
+Gas is always cheaper in the ghetto,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+Get your #MusicMarketing Promo Package Elite Twitter Accounts Network For #Artists who are serious about #Music https://t.co/0uWp3bEXvW,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+"Go cry about it joey.
+Just like the little bitch you are",Latino,offensive_language_rel,,['hisp'],1
+Go go MarTel @user43210 @user @user @user @user #MarloxKristelBeautyAndTheBeast,Latino,,spam,['hisp'],0
+Go help JimBoBob! #MOAB #BOMBIT @user76543210 @user @user @user @user @user @user @user… https://t.co/LoQwE1BUMA,African-American,,spam,['black'],0
+"Got hit on by a 70 yr old cripple...&amp; thinking, even if I were to accept your sexual advances there wouldn't be much you could do about it.",White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+"Gotta love rednecks. Loud, stupid, stubborn, and full o schitt.",White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+Halo captures the duality of light and shadow on two outer surfaces pushing and pulling from one another through a… https://t.co/3OHwHeglRV,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white']",0
+Happening now @user10 @user X #JoemfalmeLive ... https://t.co/2wnOqwrATi https://t.co/fjyq5hacpK,Latino,,spam,['hisp'],0
+"Have you ever thought a bitch was wet as fuck, but woke up the next morning &amp; realized that she was just on her period?",Latino,offensive_language_rel,,['hisp'],1
+He provides what we need when we need it... not before. Live By The Spirit: Devotions With John Piper:… https://t.co/bxrKSqabq2,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white']",0
+He's an expert on horses but see how Jockey Ruby Walsh gets on with the cows &amp; the sheep! he's tonight's guest pres… https://t.co/cvuZdl7QzN,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white']",0
+Hey Okrah... Just wake up already. You already know Bammy and Moochie are in it for the commies. Stop with the racist whitey hate crap.,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+Horny bitches go crazy jerking https://t.co/uwt3plmCL0,African-American,,spam,['black'],1
+How to Make Your Own #Cake Flowers - https://t.co/FVqeMZHe7Q #CakeFlower #CreativeCake https://t.co/6qSxmkGQG5,Latino,,spam,"['hisp', 'hisp']",0
+Humans are incapable of unconditional love. I don't care what anybody says! We simply can't do it. Finish klaar.,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white']",0
+HumpLinks: Angels get in the win column. Shoemaker sparkles ass defense looks dull Espinosa homer rallies a win. https://t.co/lyL2J7Yb1X,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white']",0
+Hypocritical little bitch,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white']",1
+I #LITMPagtatapat #FPJAPBalikBilibid #MDHKasagutan It Will never change baby MCLISSE IWFIL OnStarMusic,Latino,,normal,['hisp'],0
+I FINISHED MY DRAWING OF HONG JISOO !! / Joshua Hong of Seventeen!! i like doing digital fanart hh its fun https://t.co/Yh0jHq9ymm,Latino,,normal,"['hisp', 'hisp']",0
+I FUCKING HATE YOU JDKDBSVSJ https://t.co/Z9NFeYnSNg,Latino,,hateful,['hisp'],1
+I added a video to a @user playlist https://t.co/29eiCD0swL Yoga Body Bootcamp Challenge (Day 2) - Booty Burn + Leg Firm Flow,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white']",0
+I am a fucking gem and if you think otherwise lemme run you these hands,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+I am tired of LGBT+ characters being killed off by fucking white women. Im sick and tired of LGBT+ not... https://t.co/yGGvK5z73c,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white']",1
+I apologize to all the people that i love coz i got not much time to spend with ya :') lots of love &#128149;&#128149;&#128149;&#128149;&#128149;,Latino,,normal,['hisp'],0
+I don't think I've ever been so fucking aggravated,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white']",0
+I dont even say nigga i say nigger. Im like Chuck Norris. I say the nigger word without checking over my shoulder.,African-American,hate_speech_rel,,['black'],1
+"I fucking hate you, i literally wanna kill you so fucking bad you fat stupid bastard",Latino,,hateful,"['hisp', 'hisp']",1
+I get Maggie's mom is sick and all but she's being a bitch #greysanatomy #TearsOfGreys,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white']",0
+I hate a nigga who never got weed . But there when you spark up,African-American,,hateful,['black'],0
+I hate those kids in your class that are always complaining and just being a bitch/douche to the teacher,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+I hated it bc I always ended up doing all the work..&#128580; mfs was lazy af and unorganized .. I always got paired with t… https://t.co/lp3G8FAkQf,African-American,,hateful,['black'],0
+I just added this to my closet on Poshmark: &#128091; Envelope Wallet &#128091;. https://t.co/Flsg4CXvpC via @user #shopmycloset,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white']",0
+I just added this to my closet on Poshmark: Gorgeous MAGGY LONDON DRESS! NWT. https://t.co/JZt7G1X8HQ via @user #shopmycloset,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white']",0
+I just added this to my closet on Poshmark: JOE'S JEANS Coated Skinny NWT! &#128151; HP&#128151;. https://t.co/MECzCJbKGT via @user #shopmycloset,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+I liked a @user video https://t.co/h3CEzfZeOn XXXTentacion Calls Out Drake In His First Interview After Jail!,Latino,,spam,"['hisp', 'hisp', 'hisp']",0
+I liked a @user10 video from @user https://t.co/ILrxrw4nnh EGGING A COP CAR PRANK!!! (April Fools),Latino,,normal,['hisp'],1
+I liked a @user10 video from @user https://t.co/WLqASs0oTz SPRING BREAK | Miami | COLLEGE CHAOS!!!,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+I love My city Rio de Janeiro! I love Brazil! Thanks God for another day! Feelings blessed. A big kiss for all My… https://t.co/qaWBzJAAxc,Latino,,normal,['hisp'],0
+I see you fuck bitches. I fuck bitches also.,Latino,offensive_language_rel,,['hisp'],0
+I wanna be fucked ! Let's have a chat - https://t.co/hXuugDi0R3 https://t.co/yEZ3xC4Znb,Latino,,abusive,"['hisp', 'hisp', 'hisp']",0
+I wanna go to a trash talk concert,African-American,neither_rel,,['black'],0
+I want a tattoo so fucking bad but I just can't figure out the placement smh,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white']",0
+I want to die Why is everyone in my math class an idiot,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+I was with a bitch with a mustash for a year and a half? Wtf is wrong itch me,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white']",1
+"I would like to apologize to anyone I have called fat, stupid, gay, nigger, jew or retarded. I am truly sorry.... 
+
+JK 
+
+Just trolling
+
+Fags",Latino,hate_speech_rel,,"['hisp', 'hisp']",1
+"I'm learning design on @user – a free, easy-to-follow design course for people who do amazing things. https://t.co/yEGumFVyvr",White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white']",0
+"If history could teach us anything, it would be that private property is inextricably linked with civilization. https://t.co/BWQR2nExXM",White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+If someone is part of 'James X' then he's a white trash cultist.,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+"If you #love American #movies, watch this #new movie (full) here: https://t.co/fCipvAnKqc https://t.co/JrMRaSjgq1",White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+"If you're looking for work in #Pottstown, PA, check out this #job: https://t.co/GDBvgtT36T #Transportation #Hiring",White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white']",0
+"Informational Meeting right after school in room 104 on Tuesday, April 11th. Come and see if this is the club for you!",White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+Is this news to you? Stay current with all the news from ASU and earn Pitchforks toward great rewards! #Sponsored https://t.co/XQYU97wEFN,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+It's crazy how niggas being accused of rape doesn't bother y'all,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+"It's not often you see the words ""disingenuous,"" ""egregious,"" and ""cunt filth"" all in one sentence and properly used. #points",White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white']",1
+It's so shady when you bitches talk to guys w/ girlfriends that's so disrespectful to do to another girl,Latino,hate_speech_rel,,['hisp'],0
+Its crazy how these Niggas hate on me but don't even know me,African-American,,hateful,['black'],0
+"Joey &amp; Robin Flip-Fuck: Robin Moore makes his gay porn debut in this scene, and who better… https://t.co/8iBRNn1oYX",White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white']",0
+Just remember when having standards becomes cool again......im gonna call a lot of you out for staying quiet like a bitch all this time.,Latino,offensive_language_rel,,['hisp'],0
+KTLA 'I Cut My Children's Throats': Ohio Mother Faces Attempted Murder Charges After Chilling… https://t.co/vVSjNIqhgA,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white']",0
+Kanyeeeeeee is just a yard ape acting idiot!just stupid...,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+"LAST DAY TO SAVE 10%! / - Buy now, Schedule Later 2 lock in savings! Last sale until Fall! https://t.co/D0fybrRBqm https://t.co/4pqYg9icfZ",White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white']",0
+"LEGO ARCHITECTURE STUDIO SET 21050 COMPLETE w/ box, book &amp; trays! https://t.co/SvCEVaheGz https://t.co/B8uypok11P",White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+Lakers are trash right now.,Latino,hate_speech_rel,,['hisp'],0
+Latina gets fucked in the bedroom of her pornaddicted bf compilation https://t.co/Ha3dmvfz1W,Latino,,spam,['hisp'],1
+Leave it up to me it would've been in the trash.... All of it.,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+Lebron is such a pussy.. always has to get picked up for cramps and shit,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+Lethal bird flu cocktail sent out of lab accidentally went unreported &#8211; CDC http://t.co/MO2m6q3xTt,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+Life Tips for Millennials When Choosing A Professional Path https://t.co/Yh6ZF0klSl https://t.co/T7kPj4hsEA,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white']",0
+"Like literally after I'm done texting someone when I don't text back I slide the bitch to the left , I'd win that money",White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+"Lmao the shovel video is pretty awesome, she went down like a ton of bricks lol. Gotta love honky riff raff savages. That is all.",White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+Lol colored contacts played out.,Latino,neither_rel,,"['hisp', 'hisp']",0
+Long Lasting Beauty Waterproof Liquid Lip Pen Gloss Matte Lipstick Makeup HZ20 https://t.co/GeAUvEBF57 https://t.co/80wowBeiay,Latino,,spam,['hisp'],0
+Looking for dog friendly pubs in the Cotswolds? Here's 10 of the best places to go... https://t.co/GNlSMv7osQ https://t.co/XHhqPyi85j,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white']",0
+Looking for someplace different to have dinner? Check out the menu for the month. Call to reserve your table or... https://t.co/13ZnSzQfwM,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white']",0
+"Lynx HealthCare, treating the WHOLE patient https://t.co/UBiMTq2urk Learn more about OA knee pain relief",White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white']",0
+MINT Nintendo New 3DS XL Black with AC adapter and screen protectors https://t.co/3VBaB8kq6T https://t.co/zFYkC8d8Fl,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+"Mad how ungrateful some people are and appreciate nothing you do for them, you'd be fucked if I didn't run about after you pal &#129305;&#127996;",White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white']",0
+"Majority of the time, a woman's story is trash anyway...",White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+Make sure you register your HOTTEST SINGLE for our FREE MUSIC PROMOTION!! Submit Here ➡ https://t.co/Wzy08nI5dW… https://t.co/i6l8UCMpS5,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white']",0
+Mannnn tonight feels like trash.,African-American,neither_rel,,['black'],0
+Me and my store manager went to Panera this morning and forgot it was free breakfast day at Chick-fil-A &amp; pretty sure she wanted to cry lol,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white']",0
+"Meet India&#8217;s amazing, death-defying monkey king &#8594; http://t.co/dGcmLFSIrh http://t.co/VYw3FsWwdv",Latino,neither_rel,,['hisp'],1
+Most people simply want to be loved. Always remember this. This want is even in the most egotistical people.,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white']",0
+My bitch can be anything except average,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white']",1
+My mom didn't buy me Oreos she doesn't love me,Latino,neither_rel,,['hisp'],0
+Never will we be an item. Psycho bitch!,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+"No police department that hires gypsies, half-breeds, and nigglets should be trusted.",White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white']",1
+None of us went to these PRESTIGIOUS establishments so we're clearly not as superior as these fucking retards...,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+Not enjoying the recurrent victim blamey 'if you don't report this it's your fault if it happens to other women' rhetoric on #broadchurch,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+Nothing like studying your ass off for an exam to find out you did terrible on it. &#128522;&#128522;&#128522;,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white']",0
+"Nothing says teabagger like a millionaire complaining that they are broke, huh #HillaryClinton? #Hillary2016, give me a break, lol. #p2",White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+Nurses- RGN Want to make a difference to someone's life? Do you have a Registered NMC PIN? Have Empathy ...https://t.co/r37u90CXFC,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white']",0
+OMG RT @user: Have yall ever met a dyke who didn't have a kid?,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white']",1
+"Of course, you want to be recognized for your contributions on... More for Pisces https://t.co/VQhZ2dwvyJ",White/Caucasian,,spam,"['white', 'white', 'white', 'white']",0
+Omer Asik so trash on the offensive side of the floor dude real life murky doo doo water,White/Caucasian,neither_rel,,"['white', 'white', 'white']",0
+On UPenn campus all the black chicks here are trash but they're gonna be paid,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+One Direction Download Gratis Drag Me Down: one direction download gratis drag me down https://t.co/nUOaDnYOcq,Latino,,spam,['hisp'],0
+One mans trash is another mans treasure,African-American,neither_rel,,['black'],0
+"Only fags say ""swag"" shits mad retarded.",Latino,hate_speech_rel,,['hisp'],1
+Oreos are my life,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",0
+Ousted North Carolina governor still blaming liberals for firestorm over his 'bathroom law' - Raw Story https://t.co/Iy2UFBOVJY,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white']",0
+"Palin mocks Obama, on Russia rhetorically asks ""who could have seen this coming,"" the crowd goes wild #CPAC2014",White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white']",0
+Please don't be the girl that doesn't believe other girls when they tell you your boyfriend is cheating.,Latino,,normal,['hisp'],0
+"Pm is u use any of the words I use (ex. Sweg,pm,yid,nid) we're dating",White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user10: &#128557;&#128557;&#128557;&#128557;&#128557; RT @user: Tight pants and loud colors!!! You look like a fag! &#128557;,Latino,hate_speech_rel,,['hisp'],1
+RT @user10: .@user read the article you idiot https://t.co/zOm90J0TtX,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+"RT @user10: @user One day more until turkey, it will nip me in the belly, we'll be ready for the stuffing, we will wet ours&#8230;",White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white']",0
+RT @user10: @user fix the fucking snipers you retarded piece of shit. Fucking overpowered as fuck. They aim down faster then ...,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+"RT @user10: @user i woke up with a sore throat, im cold, niggers will be niggers. so terrible",African-American,hate_speech_rel,,['black'],0
+RT @user10: I remember playing the Halo 4 episodes with @user. The pussy finished all chapters without me. Fuck him.,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+RT @user10: I still hate @user my opinion has NOT changed he's a BITCH,Latino,,hateful,['hisp'],1
+RT @user10: Me and @user are in our yellow submarine rn.. &#127754;,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user10: Today @user did my hair and makeup.. He always tries to make me look like a monkey. http://t.co/tym2JD7h3Z,Latino,neither_rel,,['hisp'],1
+RT @user10: Water is wet. RT @user: Nike DC is trash.,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white']",0
+"RT @user10: bitch you love every team but the US lol RT""@user: This is the game I've been waiting for! I sincerely LOVE both of these&#8230;",White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user10: you're a retard @user,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+RT @user210: &#8220;@user: @user Knocked that bitch soul out her body lol&#8221; aha bruh cocked back an fired on that bitch,African-American,offensive_language_rel,,"['black', 'black']",1
+RT @user210: @user @user Stfu faggot a clip is 4+ holy fucking tittyy shit,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+"RT @user210: @user @user and now he's attacked Syria, what a fucking idiot.",White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+RT @user210: @user No @user is fuckin stupid,Latino,,abusive,['hisp'],1
+"RT @user3210: &#8220;@user: @user well he is at Genos. So he is the ultimate faggot&#8221;
+@user got to show this queer how to eat &#8230;",White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white']",1
+RT @user3210: @user @user @user Yeah I know it's Jeff's book. The one where he admits to beating prisoners and lying abo&#8230;,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user43210: @user @user @user @user but cant nobody at yall pep rally out jigg me,African-American,neither_rel,,['black'],0
+"RT @user43210: Dodgeball team tonight is about to be fucking OP.. &#128563; Duncan Falls, see you tonight! &#128520; @user @user @user @user…",White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user: &#8226;not all black girls are ghetto though,Latino,neither_rel,,['hisp'],0
+RT @user: 50 Tomahawks. you stupid fucking cocksuckers,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+RT @user: A hate lassies that think they're intimidating fuck off creep,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+RT @user: A nigga a do you dirty and be mad at u&#128557;&#128557;&#128557;&#128557;wtf I do 2 u bitch!,African-American,,hateful,['black'],1
+RT @user: All these bitches &amp; niggaz with they imaginary haters .....,African-American,hate_speech_rel,,['black'],0
+RT @user: Almost fucking die... never forgetting this day :(,Latino,,abusive,['hisp'],0
+"RT @user: And you idiots are tweeting Obama for help......the man who dropped 50,000 missiles &amp; bombs on Iraq and Syria every 20 min…",White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+"RT @user: Anybody who trashes their own neighborhood after a perceived injustice is a fucking moron. 
+
+#Ferguson",White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+RT @user: Approach yo bitch like: http://t.co/UHMIME9psw,African-American,offensive_language_rel,,['black'],1
+RT @user: Aurora is more ghetto then the bellos &#128514;&#128557;,Latino,neither_rel,,['hisp'],0
+"RT @user: Back in elementary school, when you were line leader, everybody else was your bitch.",White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user: Because fags are annoying af https://t.co/3z2cQ14D1G,Latino,,hateful,"['hisp', 'hisp']",1
+RT @user: Charles Manson's fiancee will have a difficult time planning their honeymoon. Charlie can't surf.,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white']",0
+RT @user: Chris Brown reached maximum level of Icy with this hoe. http://t.co/SAhGE1wGaS,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+RT @user: Cuddle with me and tell me I'm beautiful I'm a needy bitch,Latino,offensive_language_rel,,['hisp'],0
+RT @user: Denzy a hoe &#128514;&#128514;&#128514;,African-American,offensive_language_rel,,['black'],0
+RT @user: Females be 14 acting 18 &#128684;&#128138;. Turning up like they 21 &#127867;&#127864;. Throwing the pussy like they 25 &#128049;&#128166;... But still can't pass Alg&#8230;,African-American,offensive_language_rel,,['black'],1
+RT @user: Fuck this bitch I hate her https://t.co/sl3qGFJf4R,African-American,,hateful,"['black', 'black']",1
+RT @user: Fucking demon https://t.co/QaPCAAgkEY,Latino,,abusive,['hisp'],1
+"RT @user: Gardy goes yardy again! He leads off the game with a HR for the second straight night, and it's 1-0 #Yankees!",White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user: George says I'd be unstoppable if I started wearing a cape but I can never tell if he's fucking with me,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user: Gordon fucking Ramsey said pineapple doesn't belong on pizza the debate is OVER,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user: Gotta give Trump credit for thoroughness. He's literally trying to do ALL of the awful things. Like EVERY FUCKING ONE…,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white']",1
+RT @user: Guess who is gonna have a bad day today. Not me. You bitch you I am talking about you.,Latino,,abusive,['hisp'],1
+RT @user: HOLY SHIT JSCXMANNY COMES OUT TOMORROW!!!! I'm gonna scream! 10AM PST! &#128525;&#128553;&#128525;&#128553;&#128525;&#128553;&#128525; https://t.co/BkoYPXicEz,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user: Hate fags? The answer's yes.,Latino,hate_speech_rel,,['hisp'],1
+"RT @user: How about even if she does, don't fucking touch her. https://t.co/MAeinvYoVg",Latino,,normal,['hisp'],1
+RT @user: I AM FUCKING SHAKING. OMG. https://t.co/CVXbFmRGoL,Latino,,abusive,['hisp'],1
+RT @user: I don't fucking care what type of phone she has https://t.co/2HOz6SyoY7,Latino,,abusive,['hisp'],0
+"RT @user: I don't hate you, I just can't fuck with you.",Latino,,abusive,['hisp'],1
+"RT @user: I don't stand in line at clubs, the security come escort me in. Yellow diamonds tell a bitch get over here, Scorpion.",White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user: I fucking hate 2k because I suck,Latino,,hateful,['hisp'],0
+RT @user: I fucking hate humans. https://t.co/BMHlBizDvM,Latino,,hateful,['hisp'],0
+RT @user: I fucking miss you every morning.,Latino,,normal,"['hisp', 'hisp']",0
+"RT @user: I hate seeing people bitch about their lives. I haven't even tried the Taco Bell breakfast, man, you don't have it this har&#8230;",White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user: I hate taking a shit at public places bc i feel like a faggot when im placing the toilet paper on the toilet seat,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+RT @user: I hate when a nigga who's not yo nigga try to press you about another nigga like he yo nigga ✋&#127997;like nigga stop it. &#128580;,African-American,,hateful,"['black', 'black']",0
+RT @user: I saw a great chimpout 2 summers ago. A middle aged Salvadoran and his 15 Yr old son got wasted by 6 beaners at the metlife &#8230;,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+RT @user: I'm Tryna Move In Silence &#129296; Niggas Want Me To Get Violent &#128548;,African-American,,hateful,['black'],1
+RT @user: I'm goin to find u.. then I'm goin to fuck u.... &#129300; this nigga stupid af&#128557;&#128514;&#128557;&#128514;,African-American,,hateful,['black'],1
+RT @user: I'm officially taken &#128553;❤&#128274;as a fucking joke,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user: IT LOOKS LIKE THEY GAVE HIM FUCKING CAT EARS THEY DO LISTEN https://t.co/XCEByG1Ke6,Latino,,spam,"['hisp', 'hisp', 'hisp']",0
+RT @user: ITS HAPPENING! a song. a video. a preorder LETS FUCKING GO #NowOrNever,Latino,,abusive,['hisp'],0
+RT @user: If I was Obama Id call a press conference &amp; slit joe bidens neck on live tv just 2 show these crackers I mean business&#8230;,African-American,hate_speech_rel,,['black'],1
+RT @user: If a bitch tries to get crazy tomorrow http://t.co/bY1j7hmQ3Z,Latino,offensive_language_rel,,"['hisp', 'hisp', 'hisp']",1
+RT @user: If my bitch don't like you I hate you hoe &#129303;,African-American,,abusive,['black'],0
+RT @user: If you can’t pour a glass of soda then just become a fucking electrical engineer https://t.co/p8Jl8VGIZb,White/Caucasian,,abusive,"['white', 'white', 'white', 'white']",0
+"RT @user: If you snipe, you're a fucking faggot. I fucking hope all of you snipers get fucking raped and suffer from cancer.",White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+RT @user: Isis to America: you're being ruled by an idiot https://t.co/F9dwWNj1Oh,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white']",1
+"RT @user: It's ""Comfortable"" but niccas like me say ""Com-tha-ble""...smh",African-American,hate_speech_rel,,['black'],0
+RT @user: It’s not like I make the choice To let my mind stay so fucking me,Latino,,abusive,['hisp'],1
+RT @user: JONGHYUN BOUGHT MATCHING NECKLACES FOR HIMSELF AND THE REST OF SHINee HE FUCKING LOVES SHINee SO MUCB https://t.co/wqACFM8z7W,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white']",0
+RT @user: Me when your bitch favorites my tweets http://t.co/MaOkZqlAOs,Latino,offensive_language_rel,,"['hisp', 'hisp', 'hisp']",0
+"RT @user: Mom: ""What happened to ___ *insert old friend name*? You used to be close."" Me: ""Fuck that bitch.""",Latino,offensive_language_rel,,['hisp'],0
+RT @user: My fucking Grandpa dude. https://t.co/rAk61yZPWU,Latino,,spam,['hisp'],0
+RT @user: NORTH CAROLINA WON!!! FUCK YEAH!!! #NationalChampionship,African-American,,abusive,['black'],0
+RT @user: Naming my son Caesar. Dawn of the apes is the absolute best movie I've ever seen in my entire life.,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user: Never go full retard http://t.co/LMk3TX5ViC,Latino,hate_speech_rel,,"['hisp', 'hisp']",1
+RT @user: Never snapchat will bishop. He is a screenshotting son of a bitch,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white']",1
+RT @user: Niggas can spot some ass a mile away but can't spot their girl being unhappy in front on their face &#128514;&#129300;,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white']",0
+RT @user: PLEAZE FUCKING HELP ME I CANT BREATh https://t.co/aeapq6meEg,Latino,,abusive,['hisp'],0
+RT @user: Piccadilly Line - Takes you to Heathrow .......... until you realise it stops at every fucking station - Might as w…,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user: So fucking relax day &#128525;&#127801;&#127801;&#127801;&#127801;&#127801;&#128525;&#128525;&#128525;&#128525; https://t.co/NNQf8wVZ0e,Latino,,normal,['hisp'],0
+RT @user: Still waiting for Charlie Baker to take the stage in Swampscott. #wcvb http://t.co/lYb3Thm199,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user: Stop fucking with me if you ain't really fucking with me,Latino,,abusive,['hisp'],1
+"RT @user: Stupid, stupid, stupid, mother-fucking, piece of shit ass-clown. https://t.co/3aS7TaJfZ2",Latino,,hateful,['hisp'],1
+RT @user: Tabloid ABC news bashes renewables again with cynical mourning of Hazelwood-world's dirtiest brown coal generator-long ov…,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user: The KKK wasn't nothing but a bunch of ugly ass cowards hiding behind sacks. #UndergroundWGN,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white']",1
+RT @user: The fox says you're a cunt.,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+RT @user: The person below is into big booty bitches&#128525;&#127825;,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+RT @user: This bitch went full on retard http://t.co/nXj4QqGMx2,African-American,offensive_language_rel,,['black'],1
+RT @user: This fucked me up https://t.co/XAI7JPm3SU,African-American,,abusive,['black'],0
+"RT @user: To hell with your religion. Bloody rascals. If this is not terrorism, what is. This is what chaddi madness has give…",White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+RT @user: UM HI HELLO IT'S A NATIONAL FUCKING HOLIDAY AND NO ONE ON MY TL IS CELEBRATING IT https://t.co/3NS3HFD4P3,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user: US ghettos-driven by lib ideology;forged by unions&amp;bankrupted by self-serving Ds catering 2parasites! #tcot http://t.co/Ee2L5&#8230;,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white']",1
+RT @user: Unfollow me bitch. I won't cry about it. &#128536;&#128536;,Latino,offensive_language_rel,,['hisp'],1
+RT @user: VAMPIRES DONT EVEN GET COLD ?? BYE THEYRE ANNOYING AS HELL https://t.co/fhT4puqKeo,Latino,,hateful,['hisp'],1
+RT @user: WHY is Bernie attacking Hillary Clinton after Trump's WORST week in office? FUCK I hate this loser now https://t.co/9h…,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+"RT @user: Well I just got conformation that is your body count is five or above, it's high and you a hoe &#128514;&#128514;&#128514;",White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+RT @user: What a fucking body!! #Wankamania https://t.co/jVYdKLTn3y,Latino,,abusive,['hisp'],1
+RT @user: What faggot complained about stretch marks?!? My nigga them shits taste like the swirls on cinnamon toast crunch http://&#8230;,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+RT @user: When bae says somethin that pisses you off but you're trying to not to be crazy anymore https://t.co/h7bs6m6N7A,Latino,,normal,"['hisp', 'hisp', 'hisp']",0
+RT @user: When bae says somethin that pisses you off but you're trying to not to be crazy anymore https://t.co/iYDsEokR1x,Latino,,abusive,['hisp'],0
+RT @user: When you and your boys discover a hoe&#128514;&#128514;&#128514; https://t.co/QHoHalWQJ2,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white']",1
+"RT @user: Wow, he basically just told his daughter ""I want some mocha colored grandbabies!"" #HTGAWM",Latino,neither_rel,,['hisp'],0
+RT @user: You got me fucked up if you think I'm about to beg you to be in my life!!!!!!! Hasta luego bitch!!!,African-American,,hateful,['black'],1
+"RT @user: You're either on my side, by my side, or in my fucking way",White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user: [(launches sack;s of burning medical waste into the side of someones house for having a bird feeder on their porch)] Fucking Bird&#8230;,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user: being a good citizen picking up trash (: http://t.co/PMFR5eopwO,Latino,neither_rel,,['hisp'],0
+RT @user: do u miss me like I miss u fucked around and got attached to u,African-American,,abusive,['black'],0
+"RT @user: dude just won a hypixel, too bad i got called a nigger cunt fag :/ feels bad man ://",Latino,,hateful,['hisp'],1
+RT @user: i fucking know you do https://t.co/kPPlX08gH7,Latino,,spam,['hisp'],0
+RT @user: i hate math i wish i could beat it up or traumatize it by fucking its wife in front of it and killing its kids,Latino,,hateful,['hisp'],1
+RT @user: i know what color my skin is. you can stop with the friendly reminders bitch.,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+RT @user: i'm literally in tears @ someone fucking her then immediately ditching the body like a prostitute on SVU. somebody…,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+"RT @user: in case u guys had a painful day like mine, here's chanyeol asking to hold baekhyun's hand bcs why the hell not &#128516;&#128149;&#128149; htt…",White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user: lana doesn't have a bad album gays just like upbeat songs,Latino,,hateful,"['hisp', 'hisp', 'hisp']",0
+"RT @user: my son, Wyatt: ""do rednecks have mullets to keep from getting red necks?""",White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+RT @user: so u guys included the eyes but not the fucking clit ????? https://t.co/4mil0jaGeC,Latino,,hateful,"['hisp', 'hisp']",1
+RT @user: they want to invite exo so fucking bad that they moved the award show to macau just so exo can attend but what the fuck is this,Latino,,abusive,['hisp'],1
+RT @user: this rainbow is fucking me up man https://t.co/Yu2BvUytQ5,Latino,,abusive,['hisp'],0
+RT @user: trying to sell a TV show i wrote &amp; i wanna make it so FUCKING bad.can we get #itgetsworseSHOW trending?? i wanna sh…,African-American,,abusive,['black'],0
+RT @user: u know u fucked up when a girl sends you this https://t.co/e3eEkchd8Q,African-American,,spam,['black'],1
+RT @user: u may think im a bitch but as soon as you get to know me u realize that first impressions are right and i am a bitch,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+RT @user: we all know someone fucked for exams,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+RT @user: when you look like trash and someone compliments you http://t.co/RRQzsYM4tY,Latino,neither_rel,,"['hisp', 'hisp']",0
+RT @user: when you're mad at video games but controllers are expensive as hell https://t.co/3uBM6t6XTH,White/Caucasian,,normal,"['white', 'white', 'white', 'white']",0
+RT @user: you fucked up. https://t.co/sg33tU0Jpp,African-American,,abusive,['black'],0
+RT @user: you know you fucking up if George Bush calling you racist https://t.co/5zttM8ni3a,Latino,,hateful,['hisp'],1
+Rapper @user on stage at Rhythms On Da Runway happening now #RODR2017 #RhythmzOnDaRunway… https://t.co/PS6Ur54MFo,African-American,,normal,['black'],0
+Really tired of negative people in my life &#128579;&#128579;trying to stay positive &amp; beat the negativity #sorrynotsorry #nomorenegativity #positivevibes,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+Republicans aren't the only racist in America. We have racist Democrats too. But don't play the token negro card... http://t.co/FT5c4yhraG,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+"Retweeted #FairAndSquare (@user10): On Phone, @user: One thing Ghanaians don't know is that my Grandmum is a... https://t.co/jGSO45U95s",African-American,,normal,['black'],0
+S/O @user for keeping me sane when I'm a cunt,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+"Scenario: a muslim man beats his wife because she wants to be a feminist, but this goes against his culture. Who does the liberal defend?",White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white']",1
+School sucks more dick than the hoes who attend it.,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+Serbian President predsednikrs: #BeltandRoad Initiative is the way China shows greatness by helping other countrie… https://t.co/jQfBfNnTKE,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+Share your ideas and shape the IBM ecosystem. Join over 700 #IBMPartners #IBM #InnovationHub.... https://t.co/ocXMpxlAKN,White/Caucasian,,spam,"['white', 'white', 'white', 'white']",0
+She got every niggah lookin like dam,African-American,hate_speech_rel,,['black'],0
+SisLovesMe - Step-Sis Tricked Into Fucking https://t.co/HAZ4Rxw4sR https://t.co/VMIis5DZa1,Latino,,spam,"['hisp', 'hisp']",0
+So my dumb ass screams fuck the redskins in this big ass echo filled parking garage,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+"So, returned from Trier, got off the train at Cents-Hamm train station, biked down Val de Hamm and tried to get onto the sidewalk... (1/2)",White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white']",0
+Some of these hood negros don't deserve bail money the way they be visiting jail.,African-American,hate_speech_rel,,['black'],1
+Sotheby's Faberge Works of Art Objects of Vertu and Silver 1988 Russia https://t.co/85cWwKJh9b https://t.co/6PipqWugg1,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+Southwest airlines is like driving in a mini van with your white trash cousins who love to huff paint thinner before before working.,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+Stay home if your broke ! Let's fucking go https://t.co/ot8OfAiMpk,Latino,,spam,"['hisp', 'hisp']",0
+Submit your song for our ' TRASH IT or BLAST IT ' https://t.co/F1yqNcUhR5 ! Blastit@user.com email https://t.co/goa1M6TmbT RT,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white']",0
+Take advantage of the dual enrollment program at NW-SCC by contacting 256.331.5289 or email awuotto@user.edu https://t.co/rMjKNF2rPB,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white']",0
+That's because she's a fkn child I hate that bitch I wish I could erase the whole 2.5 years I don't have no love no nothing but hate for her,Latino,,hateful,['hisp'],1
+The #south of the US is white trash.,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+The Brewers announcers make their games really enjoyable to watch. They're two of the best in the business.,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white']",0
+"The best part is I'm lewd, SERIOUS, and DETAILED. So if I'm not fucking, I'll kick your characters with a story! RT if you can relate!",White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+The latest The Historicus Ledger! https://t.co/NTzmRYvCh8 Thanks to @user210 @user @user #highered #edtech,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+The majority of our problems are of our own making. Gordon Tredgold #leadership #hr #author - Via:… https://t.co/KhZwbLyhWR,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white']",0
+The worst film I've ever been in my fucking grave.,White/Caucasian,,abusive,"['white', 'white', 'white', 'white']",0
+Their behavior is lately is really getting annoying. I hate spring time. They got 2 months left smh they need to chill,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+Then we're just supposed to believe these 3 friends involved in politics since 1979 knew nothing about each other.… https://t.co/vGmrFI4xJL,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+There was a reason why I blocked this bitch,Latino,offensive_language_rel,,"['hisp', 'hisp', 'hisp']",1
+These people are fags.,Latino,hate_speech_rel,,"['hisp', 'hisp']",1
+They boutta ruin one of the best cartoons with a remake these new style cartoons are fucking horrible https://t.co/BbF8skwEN5,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white']",0
+They slut for me they kill for me they steal for me and of course it'll be yo cash and I'll murder that bitch send the body back to yo ass,African-American,hate_speech_rel,,['black'],1
+This Guy Sent A Friend Request To This Hottie. Now She Doing Everything For Him! https://t.co/J1aQ1MkXTb,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+This gives me hope the U.S. can still fight climate change despite our ignorant President &amp; his science-denying fol… https://t.co/QOAV7xhDnT,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+This hot chocolate and Famous Amos too bomb right now,Latino,neither_rel,,['hisp'],0
+This is one of the main problems we have today..to many act as though the Gov. is some unlimited money bank..they don't understand its them.,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white']",0
+This niggah better remember to bring his sperrys,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+This song may be for basic bitches but it's such a mood boost,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",0
+To all of our spring coaches and athletes....we feel your pain!! &#128077;&#128514;#TeamDunlap @user10 @user… https://t.co/4OBJTwzgOZ,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+To the senior class: there will be Oreo funfetti bars in the den this morning &#128538;,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+Topped off with shaved truffles &amp; washed down with some Moet ! @user https://t.co/S69d8RZQro,African-American,,normal,['black'],0
+"Trainer lady is a bitch, shook my hand made me promise her I'ma study for a test tomorrow, and idk I don't like her she's trying to break me",Latino,offensive_language_rel,,['hisp'],1
+Trump said he'd stop dragging us into war. That's yet another fat lie | Medea Benjamin https://t.co/4PKTTHNeCW,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+"Twice divorced teabagger Florida Attorney General says marriage is reserved for 'stable, enduring family units' http://t.co/9ZWr3O33iu #wtf",White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+UK: Muslim prisoner pours boiling fat over other prisoner's head because of “insult to Islam” ... https://t.co/fWY6VCmFpq,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+Unretweeting retweets cos I realised they'd cropped or not included the artists names and I need a nap before I start sherlocking that shit,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+Up early then a bitch driving to denton omg can I move already,Latino,neither_rel,,['hisp'],0
+View the Full porn video here 》》 https://t.co/mHEgqHdgyN Get Android adult videos app 》》 https://t.co/lhFeYCGtjf https://t.co/bgHHlMwMFQ,African-American,,spam,['black'],1
+View the Full video clip here 》》https://t.co/57Q9qgDWBo Get Android adult videos app 》》 https://t.co/70MFPUOTIT https://t.co/eBg6eZ4QEX,African-American,,spam,['black'],0
+Visit https://t.co/Mt8ELsdj80 to cast your votes and you could win a library of 64 books! @user #HCCMarchMadness,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white']",0
+Waiting for brownies. I want brownies. Someone hooks it up?,Latino,neither_rel,,['hisp'],0
+Want to test our friendship? Let’s play #BoardKings https://t.co/ImtKpNO8Cy https://t.co/crigNNPQPb https://t.co/ImtKpNO8Cy,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white']",0
+Watch out nigger lovers. You day is coming. http://t.co/ZV1CpK1iy8,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+We don't play &#127936; bitch there's no take backs,Latino,offensive_language_rel,,['hisp'],1
+We're heading for yet another SCENE sell out at @user Grab your tickets now - https://t.co/a8erOfb1Wu https://t.co/NkiRoB4SKJ,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+We're moving! You can find all of the great #Isilon content on our new @user handle. Be sure to follow… https://t.co/osvn0sqIpm,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+Weird frosted colored lipgloss is weird...,Latino,neither_rel,,"['hisp', 'hisp']",0
+"What a completely disgusting thing to say, @user. You cannot claim to not be a #bigot while simultaneously… https://t.co/v1YopaFqgf",White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+What a wetback looks like when he gets caught crossing the border. @user http://t.co/j3Uf1TYubO,Latino,hate_speech_rel,,['hisp'],1
+What kind of person am I : the one that wears a beanie and does drugs and likes to fuck with bitches,Latino,offensive_language_rel,,['hisp'],1
+What's worse than #Ebola ? The F-ing retards trying to make it a race issue. Al Sharpton has caused more American death than ebola.,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+When U post positive things please do not be offended when that 1 gremlin pops up to say something negative! Satan does have helpers! #Fools,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white']",0
+When a pussy nigga socks you and doesn't knock you out.,Latino,hate_speech_rel,,['hisp'],1
+When did Miley turn ghetto?,Latino,neither_rel,,['hisp'],1
+When you just #CantStopReading #IndependentReading #CreatingaCommunityofReaders @user https://t.co/Ynr2GfyLLH,Latino,,normal,['hisp'],0
+White trash okies don't count as real white people. To count as a white person you have to count a person. Okies aren't people.,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+Whoever had Mr. Ramlogan for UWI business law tho? Racist mudda cunt,African-American,hate_speech_rel,,['black'],1
+Why I always got to put on a fake smile just to make everyone else happy but when is comes on me its all hatred &amp; negative - its not fair &#128542;,Latino,,normal,"['hisp', 'hisp']",0
+Why do peeps gotta be mad ghetto nowadays? Smh pull up your pants!,African-American,neither_rel,,['black'],1
+Why the fuck am I getting notifications about two cunts getting married on facebook? I dini gie a fuck #getlost,Latino,offensive_language_rel,,"['hisp', 'hisp', 'hisp']",1
+Wireless Bluetooth Headset Ear Hook Sports Jogging Stereo Waterproof Earphone https://t.co/Kso57uYaiI https://t.co/XxCguU3DVO,Latino,,normal,"['hisp', 'hisp']",0
+Yo bitch go wild more miles on her pussy then my car do,African-American,offensive_language_rel,,['black'],1
+Yoooo i really hated this nigga &#128557; https://t.co/22NuqZv1O0,Latino,,hateful,['hisp'],1
+"Yost on Portsmouth ""this is the biggest white trash county in the nation"" #YostKnowsMost @user",White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+You always find something to bitch about.,Latino,offensive_language_rel,,"['hisp', 'hisp']",0
+"You fucking fag &#8220;@user: this is exactly what i am talking about 
+
+women are pigs http://t.co/oKR3seYFBJ&#8221;",Latino,hate_speech_rel,,"['hisp', 'hisp']",1
+"You know what I hate? Being ignored, put down, judged, feeling insecure, being hurt and losing friends.",White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white']",0
+You know you made it when the niggas that used to hate on you are now telling people how they met you,Latino,,hateful,['hisp'],1
+You niggas so use to taking bitches out to eat that when you get offered home made food you act so surprised it's funny lmao &#128514;,Latino,,hateful,['hisp'],0
+You shouldn't have to write a bot for Discord to mass delete messages. This is fucking horrible,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+Your unwavering resolve might be the key to putting things bac... More for Taurus https://t.co/s6zLsauclC,African-American,,normal,['black'],0
+"[Dude]: Well, I guess the fucking nihilist knew where she was. [Walter]: Jesus, Dude! She never even kidnapped hers… https://t.co/oIycDs8Y25",Latino,,hateful,['hisp'],1
+"[no irony voice] ummmmmmm, buddy, even though this tweet is formatted like an ironic tweet................. it's not",White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+"after the steelers lost the superbowl i loaded up the black and yellow gmix on my moms computer, i think the youtube page is still open",White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+cheeky lol RT @user: I want those all black and yellow 95's again... ughh I &#9825; those,Latino,neither_rel,,['hisp'],0
+come and see Brazzers - Candi Kayne gets fucked by her coworker https://t.co/4TBDfGkwaV,Latino,,spam,['hisp'],0
+did you see that? Can you believe the twins invented being a 'fucking daddy' holy shhh I'm trembling https://t.co/6RNLtn0rP2,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white']",0
+emo girls shower fucking #katrina kaif nude sex https://t.co/S2mxnioF14,Latino,,spam,['hisp'],0
+ever since my doctor told me i can start drinking coffee again- i kinda slowed down- and i just made me a good ass coffee rn and i'm just &#128525;&#128525;,Latino,,normal,['hisp'],0
+fat dykes make me want to vomit,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+"fire them, deport them.. America is not a Sharia law &amp; never will be.. go back to their country. https://t.co/UAtAcOYHHk",White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+fucking CHRIST i hate tutors and TAs. you literally get paid to teach retards to stop picking their nose. GET THE FUCK OUTTA MY FACE,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+get over it pussies,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+girls get caught fucking #metartgirls tube https://t.co/21AWTcU19h,Latino,,hateful,"['hisp', 'hisp']",0
+high-key this would be noct x stella x prom can u guess who is who cause I can @user10 &amp; @user https://t.co/qs2wqSGWg1,Latino,,normal,['hisp'],0
+honest everyone needs watch 13 reasons why because there's so much people need to understand about society today,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+how not to get distracted by these fucking thoughts,Latino,,abusive,['hisp'],0
+"https://t.co/XjYrbGKAaa https://t.co/QxsdfLH9Wa in Laguna Beach, CA. Surfing lessons Stand up paddle board lessons/… https://t.co/Ag6pC7YmpB",White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+https://t.co/uXtyDddT5i Jody Harris has been featured in many accredited magazines and news articles such as Forbes https://t.co/YWujOhP8wK,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+i hate hoes.,African-American,hate_speech_rel,,['black'],1
+i hate when people say this.. like yea you fucking did &#128514; its called lunch https://t.co/j1rURyUKO1,Latino,,hateful,['hisp'],0
+i hope leaders just kick retards that fake leave teams today,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+i was gonna make a post abt how im annoyed that im thinking abt megawave but i genuinely brought this onto myself,Latino,,normal,['hisp'],0
+i'm just sorry that you got those shitty cc anons. ... — oh but i do!! shitty anons for a shitty person :)) https://t.co/Rco6TGvQui,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white']",0
+i've played like 9-10 games of battlegrounds and i have yet to even remotely come close to killing anyone i'm so bad at shooters jesus,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white']",0
+if ive ever been a faggot to you let me know and ill change :),Latino,offensive_language_rel,,['hisp'],1
+im trying to not be on my phone during school but this guy in my class is pissing me off so bad i need a distraction,Latino,,normal,['hisp'],0
+is it ghetto to grease yo scalp at work,African-American,neither_rel,,['black'],0
+jesus fucking christ labour https://t.co/otQc5TNfmM,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white']",0
+just a little something to take my ass to sleep hopefully i get for buyin it used only bought 1 yr ago,Latino,,normal,['hisp'],0
+just fucked teens movies #porn arabia https://t.co/ixk9iKLi0L,Latino,,spam,['hisp'],1
+just fucking kidding! scored https://t.co/VzAAxQtRDZ,Latino,,spam,['hisp'],0
+just seen the trailer to The Mummy that shit looks so horrible,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white']",0
+my sketchbook is so personal to me it's like my soul i feel like if u look through it w/o permission ill hate u for the rest of my life,Latino,,hateful,"['hisp', 'hisp', 'hisp']",0
+oh look that's another reason to fucking hate my shit-ass group,Latino,,hateful,"['hisp', 'hisp']",1
+one day im like harry styles is so hot the next day is who tf is this faggot,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+one person followed me and one person unfollowed me // automatically checked by https://t.co/8pP8REOayH,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white']",0
+really tired of having a constant bitch face,White/Caucasian,offensive_language_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+regrann from bitches.of.karma - In order to get all the names and numbers on the post I had to… https://t.co/6KDNkU9Qr5,White/Caucasian,,hateful,"['white', 'white', 'white', 'white']",0
+slut fucked by two guys threesom https://t.co/7VhH65nlCP,White/Caucasian,,spam,"['white', 'white', 'white', 'white', 'white', 'white']",1
+some call me the song bird of my generation,African-American,neither_rel,,['black'],0
+some kid in an angry birds costume bumped into me and I fell over making something else fall over into something else which wobbled and..,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",0
+sorry that ur all so fucked up and jealous of me but STOP IT,Latino,,abusive,"['hisp', 'hisp']",1
+spoiler alert: the boss baby is torn apart by dogs at the end of the movie while an entire crowd cheers https://t.co/Ldxf8Fm7nI,White/Caucasian,,hateful,"['white', 'white', 'white', 'white', 'white', 'white']",0
+the fucking puns and references in this episode I hate justin roiland,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",1
+the receptionist im always forced to talk to is such a racist cunt. i called her for an error and she said she'll call me. 40 mins. nothing.,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white']",1
+they're working on a bill to prevent retards from voting. who knew retards COULD vote? things are starting to make sense now.,White/Caucasian,hate_speech_rel,,"['white', 'white', 'white', 'white', 'white', 'white']",1
+thoughts on persona 5 so far: RLY GOOD?! THo I find the music pretty miss like I always have in persona games,White/Caucasian,,normal,"['white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+today i start breaking in a new pair of docs have mercy on my soles,White/Caucasian,neither_rel,,"['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",0
+when you secretly hate the bitch https://t.co/eO6o2Twohp,Latino,,abusive,"['hisp', 'hisp', 'hisp']",1
+why was I so blind and fucking dumb to see that we were perfect til I turned around and gave into debauchery?,White/Caucasian,,abusive,"['white', 'white', 'white', 'white', 'white', 'white']",0
+wtf!!!!!!!!&#128548;Turkey is going down! Stop this madness!!!! Vote for your future! Akliniz gotunuze kacmasin!!!! Yeter! https://t.co/UWA5yQao4x,Latino,,hateful,['hisp'],0
