@@ -1,0 +1,95 @@
+TEST ON ORIGINAL DATA:
+
+***** Running Prediction *****
+  Num examples = 17130
+  Batch size = 32
+Start processin data...
+Start inferencing...
+NO DEBIASING:
+              precision    recall  f1-score   support
+
+           0      0.966     0.960     0.963     10621
+           1      0.936     0.944     0.940      6509
+
+    accuracy                          0.954     17130
+   macro avg      0.951     0.952     0.952     17130
+weighted avg      0.954     0.954     0.954     17130
+
+WITH DEBIASING:
+              precision    recall  f1-score   support
+
+           0      0.966     0.960     0.963     10621
+           1      0.936     0.944     0.940      6509
+
+    accuracy                          0.954     17130
+   macro avg      0.951     0.952     0.952     17130
+weighted avg      0.954     0.954     0.954     17130
+
+best gamma= 1.0
+fraction of original preds and debiased preds being equal= 0.9453006421482779
+
+
+
+
+TEST ON RELAXED DEBIASED DATA:
+
+***** Running Prediction *****
+  Num examples = 1298
+  Batch size = 32
+Start processin data...
+Start inferencing...
+NO DEBIASING:
+              precision    recall  f1-score   support
+
+           0      0.931     0.631     0.752       839
+           1      0.575     0.915     0.706       459
+
+    accuracy                          0.731      1298
+   macro avg      0.753     0.773     0.729      1298
+weighted avg      0.805     0.731     0.736      1298
+
+WITH DEBIASING:
+              precision    recall  f1-score   support
+
+           0      0.935     0.635     0.757       839
+           1      0.580     0.919     0.711       459
+
+    accuracy                          0.736      1298
+   macro avg      0.757     0.777     0.734      1298
+weighted avg      0.809     0.736     0.740      1298
+
+best gamma= 1.1
+fraction of original preds and debiased preds being equal= 0.9052388289676425
+
+
+
+
+TEST ON STRICT DEBIASED DATA:
+
+***** Running Prediction *****
+  Num examples = 596
+  Batch size = 32
+Start processin data...
+Start inferencing...
+NO DEBIASING:
+              precision    recall  f1-score   support
+
+           0      0.880     0.643     0.743       342
+           1      0.647     0.882     0.747       254
+
+    accuracy                          0.745       596
+   macro avg      0.764     0.763     0.745       596
+weighted avg      0.781     0.745     0.745       596
+
+WITH DEBIASING:
+              precision    recall  f1-score   support
+
+           0      0.881     0.652     0.750       342
+           1      0.653     0.882     0.750       254
+
+    accuracy                          0.750       596
+   macro avg      0.767     0.767     0.750       596
+weighted avg      0.784     0.750     0.750       596
+
+best gamma= 1.1
+fraction of original preds and debiased preds being equal= 0.8825503355704698
